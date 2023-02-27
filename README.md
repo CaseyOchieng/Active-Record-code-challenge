@@ -27,7 +27,7 @@ Open a terminal or command line interface on your computer
 
 Clone the repository by running the following command:
 
-[Press here to clone](https://github.com/CaseyOchieng/Active-Record-code-challenge)and please 
+[Press here to clone](https://github.com/CaseyOchieng/Active-Record-code-challenge) and 
  wait for the repository to finish cloning on your local machine.
 
 Change directory to the repository folder:

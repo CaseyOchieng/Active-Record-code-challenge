@@ -12,11 +12,11 @@ product3= Product.create(name: "Maize")
 product4= Product.create(name: "ugali")
 product5= Product.create(name: "chapati")
 
-user1 = User.create(name: "levy")
-user2 = User.create(name: "niggo")
-user3 = User.create(name: "bichwa")
-user4 = User.create(name: "njiru")
-user5 = User.create(name: "muguro")
+user1 = User.create(name: "Casey")
+user2 = User.create(name: "Grace")
+user3 = User.create(name: "Eva")
+user4 = User.create(name: "Marcos")
+user5 = User.create(name: "Marylucy")
 
 
 review = Review.create(
@@ -28,4 +28,4 @@ review = Review.create(
 
 
 
-puts "🌱 Done seeding!"
+puts " Done "
